@@ -1,0 +1,82 @@
+
+
+.mainblock
+{
+	
+	
+}
+.photo
+{
+	display: inline-block;
+	width: 250px;
+	height: 250px;
+	margin-top: 10px;
+}
+
+.vendorСode
+{
+	border-bottom: dotted 2px orange;
+	display: inline-block;
+	margin-top: 0px;
+	position: relative;
+	width: 400px;
+	bottom: 200px;
+}
+
+.reviews
+{
+
+	border-top: dotted 2px orange;
+	border-bottom: dotted 2px orange;
+	position: relative;
+	margin-top: 0px;
+	width: 400px;
+	bottom: 200px;
+	margin-left: 255px;
+	height: 90px;
+	padding-bottom: 10px;
+}
+
+.price
+{
+	border-bottom: dotted 2px orange;
+	position: relative;
+	margin-top: 0px;
+	width: 400px;
+	bottom: 180px;
+	margin-left: 255px;
+	height: 70px;
+}
+.textproduct
+{
+	font-size: 20px;
+	color: blue;
+}
+
+.purchase
+{
+	position: relative;
+	width: 400px;
+	bottom: 180px;
+	margin-left: 255px;
+	height: 70px;
+}
+
+.description
+{
+	border-top: dotted 2px orange;
+	position: relative;
+	bottom: 160px;
+	height: auto;
+	width: 655px;
+	
+}
+
+
+.send
+{
+	width: 150px;
+	height: 30px;
+	background-color: #FFCB2B;
+	border-radius: 4px;
+}

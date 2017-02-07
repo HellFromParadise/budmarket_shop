@@ -1,0 +1,20 @@
+.header {
+	display: block;
+	border-bottom: dotted 2px orange;
+}
+.mainblock {
+	width: 700px;
+	height: 700px auto;
+	display: inline-block;
+	margin-left: 300px;
+	border-bottom: solid 1px orange;
+}
+.tovar {
+	display: inline-block;
+	margin: 10px;
+	width: 205px;
+	height: 225px;
+	padding: 2px;
+}
+
+

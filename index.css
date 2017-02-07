@@ -1,0 +1,27 @@
+.title_2 {
+	height: 150px;
+	text-align: center;
+	width: 100%;
+	border: dotted 2px orange;
+}
+.goods_1 {
+	display: inline-block;
+	border-right: dotted 2px orange;
+	min-width: 300px;
+	height: 300px auto;
+	padding-top: 20px;
+	margin-bottom: 10px; 
+}
+.tovary {
+	display: inline-block;
+	
+}
+.tovar {
+	display: inline-block;
+	margin: 10px;
+	width: 205px;
+	height: 225px;
+	padding: 2px;
+}
+
+
